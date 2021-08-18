@@ -17,10 +17,16 @@
 			"section": "About",
 			"title_social": "Social"
 		},
+		"profile_quote": {
+			"title": "Favorite quote",
+			"quote": "\" A hungry man can do anything. I'm hungry right now. \"",
+			"author": "Hwa Cheol Ju",
+			"section": "Quote"
+		},
 		"blog_posts": {
 			"title": "subject",
 			"more_posts": "the more",
-			"section": "Últimos posts"
+			"section": "Blog Posts"
 		},
 		"copyright": "Copyright © 2021 Hwa Cheol Ju."
 	}]
