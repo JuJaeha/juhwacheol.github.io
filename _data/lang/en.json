@@ -2,8 +2,10 @@
 	"name": "English",
 	"terms": [{
 		"profile_photo": {
-			"name": "Labrador",
-			"position": "Loyal friend",
+			//"name": "Labrador",
+			//"position": "Loyal friend",
+			"name": "Hwa Cheol, Ju",
+			"position": "Android & IOS developer"
 			"change": "change to ",
 			"scroll_down": "Scroll down",
 			"section": "Me"
@@ -23,6 +25,6 @@
 			"author": "Louis Sabin",
 			"section": "Quote"
 		},
-		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+		"copyright": "Copyright © 2021 Ju. Made with <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
 	}]
 }
