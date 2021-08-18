@@ -2,32 +2,32 @@
 	"name": "Português",
 	"terms": [{
 		"profile_photo": {
-			"name": "Labrador",
-			"position": "Amigo fiel",
+			"name": "주화철",
+			"position": "Android & IOS",
 			"change": "mudar para ",
-			"scroll_down": "Rolar para baixo",
+			"scroll_down": "스크롤 내리기",
 			"section": "Eu"
 		},
 		"profile_about": {
 			"title": "Sobre",
-			"paragraph_1": "Meu nome completo é Charlotte Donini, mas meus amigos me chamam simplesmente de 'Lotte' :-). Sou uma <a href='https://pt.wikipedia.org/wiki/Labrador_retriever' title='Labrador na wiki' target='_blank'>labradora retriever</a>. Vivo com minha adorável família.",
-			"paragraph_2": "Eu sou muito brincalhona, com meu tamanho avantajado derrubo tudo que se atravesse em frente.",
-			"paragraph_3": "Adoro comer e dormir durante o dia, deitar ao sol de barriga para cima é minha posição preferida.",
-			"paragraph_4": "Correr e caminhar com meu dono são meus esportes preferidos.",
+			"paragraph_1": "저는 모바일 앱 개발자입니다. 저는 제 지식을 공유하고 싶어서 블로그를 시작했어요. ",
+			"paragraph_2": "공부한 내용을 천천히 정리해서 블로그에 올릴려고 합니다.🌈",
+			"paragraph_3": "감사합니다.😘",
+			"paragraph_4": "",
 			"section": "Sobre",
 			"title_social": "Social"
 		},
 		"profile_quote": {
-			"title": "Citação favorita",
-			"quote": "\" Não importa que sejam poucas as suas posses e o seu dinheiro. Ter um cão torna-o rico. \"",
-			"author": "Louis Sabin",
+			"title": "명 언",
+			"quote": "\" 굶주린 사람은 뭐든지 할 수 있다, 나는 지금 배고프다 \"",
+			"author": "주 화 철",
 			"section": "Citação"
 		},
 		"blog_posts": {
-			"title": "Últimos posts",
-			"more_posts": "mais posts",
+			"title": "제 목",
+			"more_posts": "더 많은 내용",
 			"section": "Últimos posts"
 		},
-		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+		"copyright": "Copyright © 2021 주화철."
 	}]
 }
