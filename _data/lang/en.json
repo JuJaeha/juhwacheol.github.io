@@ -11,7 +11,7 @@
 		"profile_about": {
 			"title": "About",
 			"paragraph_1": "I am a mobile app developer. I started a blog because I wanted to share my knowledge.",
-			"paragraph_2": "I will slowly organize what I studied and upload it to my blog.",
+			"paragraph_2": "I will slowly organize what I studied and upload it to my blog🌈.",
 			"paragraph_3": "Thank You 😘",
 			"paragraph_4": "",
 			"section": "About",
@@ -23,6 +23,6 @@
 			"author": "Hwa Cheol Ju",
 			"section": "Quote"
 		},
-		"copyright": "Copyright © 2021 Ju. Made with <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
+		"copyright": "Copyright © 2021 Hwa Cheol Ju."
 	}]
 }
