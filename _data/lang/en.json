@@ -3,30 +3,30 @@
 	"terms": [{
 		"profile_photo": {
 			"name": "Hwa Cheol, Ju",
-			"position": "Android & IOS developer",
+			"position": "Android developer",
 			"change": "change to ",
 			"scroll_down": "Scroll down",
 			"section": "Me"
 		},
 		"profile_about": {
 			"title": "About",
-			"paragraph_1": "I am a mobile app developer. I started a blog because I wanted to share my knowledge.",
+			"paragraph_1": "I am a mobile Android developer. I started a blog because I wanted to share my knowledge.",
 			"paragraph_2": "I will slowly organize what I studied and upload it to my blog🌈.",
 			"paragraph_3": "Thank You 😘",
 			"paragraph_4": "",
 			"section": "About",
 			"title_social": "Social"
 		},
+		"blog_posts": {
+			"title": "subject",
+			"more_posts": "the more",
+			"section": "Blog Posts"
+		},
 		"profile_quote": {
 			"title": "Favorite quote",
 			"quote": "\" A hungry man can do anything. I'm hungry right now. \"",
 			"author": "Hwa Cheol Ju",
 			"section": "Quote"
-		},
-		"blog_posts": {
-			"title": "subject",
-			"more_posts": "the more",
-			"section": "Blog Posts"
 		},
 		"copyright": "Copyright © 2021 Hwa Cheol Ju."
 	}]
