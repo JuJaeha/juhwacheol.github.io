@@ -46,7 +46,7 @@
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background-color: #000;
+    background-color: #eee;
     position: absolute;
     right: 8px;
     top: 8px;
@@ -54,7 +54,7 @@
 }
 
 .section-bullets li a {
-    color: #000;
+    color: #eee;
     overflow: hidden;
     position: relative;
     display: inline-block;
