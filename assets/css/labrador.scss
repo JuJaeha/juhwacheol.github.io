@@ -2,17 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-/*
- *
- *  ||    // \\ || )) || \\ // \\ || \\   // \\  || \\
- *  ||    ||=|| ||=)  ||_// ||=|| ||  )) ((   )) ||_//
- *  ||__| || || ||_)) || \\ || || ||_//   \\_//  || \\
- *
- *
- * Designed, built, and released under MIT license by @donini. Learn more at
- * https://github.com/donini/labrador-jekyll-theme.
- */
-
 
 @charset "utf-8";
 
@@ -45,6 +34,7 @@ $author_size: 11px;
 		"base",
 		"profile-photo",
 		"profile-about",
-		"profile-quote",
-		"blog-posts"
+		"blog-posts",
+	        "profile-quote"
+
 ;
