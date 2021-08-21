@@ -37,7 +37,7 @@
             filter: alpha(opacity=0); /* IE 5-7 */
             -moz-opacity: 0; /* Netscape */
             -khtml-opacity: 0; /* Safari 1.x */
-            opacity: 0; /* Good browsers */
+            /*opacity: 0;*/ /* Good browsers */
             transition: opacity .25s ease-in-out;
             -moz-transition: opacity .25s ease-in-out;
             -webkit-transition: opacity .25s ease-in-out;
