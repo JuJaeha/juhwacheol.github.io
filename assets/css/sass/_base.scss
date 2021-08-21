@@ -97,13 +97,13 @@ footer {
 
 // Bullets white
 .section-bullets-white li a:after {
-    background-color: $color_white !important;
+    background-color: $color_black !important;
 }
 .section-bullets-white li.active a:after {
-    border:2px solid $color_white !important; 
+    border:2px solid $color_black !important; 
 }
 .section-bullets-white li span {
-    color: $color_white !important;
+    color: $color_black !important;
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
