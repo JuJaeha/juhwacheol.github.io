@@ -52,46 +52,6 @@
         -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
         z-index: 10;
     }
-    .language {
-        position: fixed;
-        top: 10px;
-        right: 10px;
-        z-index: 9999;
-        li {
-            display: inline;
-            &.ativo {
-                display: none !important;
-                a {
-                    background-color: #000000;
-                    color: #ffffff;
-                }
-            }
-            a{
-                color: $color_black;
-                font-weight: bold;
-                text-transform: uppercase;
-                margin: 0 3px;
-                background: $color_white;
-                padding: 5px;
-                border-radius: 3px;
-                -webkit-opacity: 0.5;
-                opacity: 0.5;
-                &:hover {
-                    -webkit-opacity: 1;
-                    opacity: 1;
-                }
-            }
-            &:after {
-                content: '|';
-                margin-left: 6px;
-            }
-            &:last-child {
-                &:after {
-                    content: '';
-                }
-            }
-        }
-    }
     .btn-responsive-menu {
         display: none;
         font-size: 30px;
