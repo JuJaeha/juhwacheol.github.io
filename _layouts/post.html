@@ -24,12 +24,12 @@ layout: blog
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}
       <li>
-        <h2>
+        <h4>
           <a href="{{ site.url | prepend: site.baseurl }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date: "%d/%m/%Y" }}</small>
           </a>
-        </h2>
+        </h4>
       </li>
     {% endfor %}
   </ul>
