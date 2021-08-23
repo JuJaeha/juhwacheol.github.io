@@ -10,9 +10,9 @@ layout: blog
   
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    - 1 minuto de leitura
+    - Hwa Cheol, Ju
   {% else %}
-    - {{ words | divided_by:180 }} minutos de leitura
+    - {{ words | divided_by:180 }} Hwa Cheol, Ju
   {% endif %}
   </span>
   
@@ -20,7 +20,7 @@ layout: blog
 </div>
 
 <div class="related">
-  <h2>Últimos posts</h2>
+  <h2>More posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:5 %}
       <li>
