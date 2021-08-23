@@ -1,14 +1,3 @@
-/*
- *
- *  ||    // \\ || )) || \\ // \\ || \\   // \\  || \\
- *  ||    ||=|| ||=)  ||_// ||=|| ||  )) ((   )) ||_//
- *  ||__| || || ||_)) || \\ || || ||_//   \\_//  || \\
- *
- *
- * Designed, built, and released under MIT license by @donini. Learn more at
- * https://github.com/donini/labrador-jekyll-theme.
- */
-
 $(document).ready(function () { 
 	$(window).scroll(function (event) {
 		var scroll = $(window).scrollTop();
