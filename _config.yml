@@ -6,7 +6,7 @@ email: juhwacheol@gmail.com
 #  Labradora amável, brincalhona e esfomiada, mas que acima de tudo, feliz! <a href="#">@charlotte</a>
 #baseurl: "/labrador-jekyll-theme" # the subpath of your site, e.g. /blog
 url:  ""
-logo: "/assets/img/logo.png"
+logo: "/assets/img/icon-1000.png"
 
 # Build settings
 paginate: 10
