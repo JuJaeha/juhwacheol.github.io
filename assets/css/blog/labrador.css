@@ -52,18 +52,18 @@ html {
   text-align: center;
 }
 
-.sidebar-nav li a:hover {
-  background-color: #666;
-  text-decoration: none;
-  color: #ff42e7;
-}
-
 .sidebar-nav li a:link {
   width: 190px;
   text-decoration: none;
   display: block;
   color: #fff;
   font-weight: bold;
+}
+
+.sidebar-nav li a:hover {
+  background-color: #666;
+  text-decoration: none;
+  color: #ff42e7;
 }
 
 .sidebar-nav-item {
