@@ -56,7 +56,7 @@ html {
   color: #ff42e7;
 }
 
-.sidebar-nav li:link {
+.sidebar-nav li a:link {
   width: 190px;
   text-decoration: none;
   display: block;
