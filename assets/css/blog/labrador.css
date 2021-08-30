@@ -59,7 +59,6 @@ html {
 .sidebar-nav ul li {
   list-style: none;
   background-color: #000;
-  float: left;
   line-height: 30px;
   text-align: center;
 }
