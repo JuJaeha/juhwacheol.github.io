@@ -2,9 +2,9 @@
 # Site settings
 title: JU Blog :)
 email: juhwacheol@gmail.com
-description1: > Yesterday.
-description2: > Today.
-description3: > Tomorrow. Coding too
+description1: Yesterday.
+description2: Today.
+description3: Tomorrow. Coding too
 #baseurl: "/labrador-jekyll-theme" # the subpath of your site, e.g. /blog
 url:  ""
 homeurl: "https://juhwacheol.github.io/en/"
