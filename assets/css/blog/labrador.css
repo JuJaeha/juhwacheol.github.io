@@ -104,6 +104,12 @@ a.sidebar-nav-item:focus {
     bottom: 1rem;
     left:   1rem;
   }
+  
+  .sidebar-sticky a img {
+    width: 150px;
+    display: block;
+    margin: 0 auto 30px auto;
+  }
 }
 .content {
   padding-top:    4rem;
