@@ -1,7 +1,14 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     
-    <nav class="sidebar-nav">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{site.homeurl}}">
+          <img src="{{ site.logo | site.homeurl}}" class="logo" />
+        </a>
+      </h1>
+      
+      <nav class="sidebar-nav">
       <ul>
             <li><a class="sidebar-nav" href="{{ site.url | site.homeurl }}/en/#scrollto-section-1"><p>ME</p></a></li>
             <li><a class="sidebar-nav" href="{{ site.url | site.homeurl }}/en/#scrollto-section-2"><p>ABOUT</p></a></li>
@@ -9,13 +16,7 @@
             <li><a class="sidebar-nav" href="{{ site.url | site.homeurl }}/en/#scrollto-section-4"><p>QUOTE</p></a></li>
       </ul>
     </nav>
-    
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{site.homeurl}}">
-          <img src="{{ site.logo | site.homeurl}}" class="logo" />
-        </a>
-      </h1>
+      
       <p class="lead">{{ site.description1 }}</p>
       <p class="lead">{{ site.description2 }}</p>
       <p class="lead">{{ site.description3 }}</p>
