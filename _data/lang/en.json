@@ -10,11 +10,12 @@
 		},
 		"profile_about": {
 			"title": "About",
-			"paragraph_1": "I'm an Android & IOS developer                                I started a blog because I wanted to share my knowledge🌈",
-			"paragraph_2": "I will slowly organize what I studied and upload it to my blog",
-			"paragraph_3": "Thank You 😘",   
-			"paragraph_4": "✉️ Email :  <a href='mailto:juhwacheol@gmil.com' target='_blank'> juhwacheol@gmil.com </a>",
-			"paragraph_5": "🪴Github :  <a href='https://github.com/juhwacheol' target='_blank'>github.com/juhwacheol</a>",
+			"paragraph_1": "I'm an Android & IOS developer",
+			"paragraph_2": "I started a blog because I wanted to share my knowledge🌈",
+			"paragraph_3": "I will slowly organize what I studied and upload it to my blog",
+			"paragraph_4": "Thank You 😘",   
+			"paragraph_5": "✉️ Email :  <a href='mailto:juhwacheol@gmil.com' target='_blank'> juhwacheol@gmil.com </a>",
+			"paragraph_6": "🪴Github :  <a href='https://github.com/juhwacheol' target='_blank'>github.com/juhwacheol</a>",
 			"section": "About",
 			"title_social": "Social"
 		},
