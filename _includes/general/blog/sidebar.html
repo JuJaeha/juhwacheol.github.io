@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{site.homeurl}}">
-          <img src="{{ site.logo | prepend: site.url | prepend: baseurl}}" class="logo" />
+          <img src="{{ site.logo | site.homeurl}}" class="logo" />
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
