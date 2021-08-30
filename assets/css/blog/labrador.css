@@ -56,6 +56,26 @@ html {
 .sidebar-nav {
   margin-bottom: 1rem;
 }
+.sidebar-nav ul li {
+  list-style: none;
+  background-color: #000;
+  float: left;
+  line-height: 30px;
+  text-align: center;
+}
+
+.sidebar-nav .link {
+  width: 190px;
+  text-decoration: none;
+  display: block;
+  color: #fff;
+  font-weight: bold;
+}
+
+.sidebar-nav .link:hover {
+  background-color: #666;
+  color: #ff42e7;
+}
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
