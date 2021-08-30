@@ -97,30 +97,6 @@ a.sidebar-nav-item:focus {
     font-size: 18px;
 }
 
-.social {
-  width: 100%;
-  margin: 20px 0;
-  padding: 0;
-}
-.social li {
-  display: inline;
-  margin: 0 7px ;
-}
-.social li a {
-  color: rgba(255, 255, 255, 1);
-  font-weight: 300;
-}
-.social li a:hover {
-    color: rgb(138, 138, 138);
-    text-decoration: none;
-}
-.social li a:first-child{
-  margin-left: 0;
-}
-.social li a:last-child {
-  margin-right: 0;
-}
-
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
