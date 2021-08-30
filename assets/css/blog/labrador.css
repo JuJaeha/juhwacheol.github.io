@@ -64,7 +64,7 @@ html {
   text-align: center;
 }
 
-.sidebar-nav .link {
+.sidebar-nav ul li .link {
   width: 190px;
   text-decoration: none;
   display: block;
@@ -72,7 +72,7 @@ html {
   font-weight: bold;
 }
 
-.sidebar-nav .link:hover {
+.sidebar-nav ul li .link:hover {
   background-color: #666;
   color: #ff42e7;
 }
