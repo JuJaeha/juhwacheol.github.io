@@ -2,8 +2,8 @@
 # Site settings
 title: JU Blog :)
 email: juhwacheol@gmail.com
-#description: > # this means to ignore newlines until "baseurl:"
-#  Labradora amável, brincalhona e esfomiada, mas que acima de tudo, feliz! <a href="#">@charlotte</a>
+description: > # this means to ignore newlines until "baseurl:"
+  every single day, 
 #baseurl: "/labrador-jekyll-theme" # the subpath of your site, e.g. /blog
 url:  ""
 logo: "/assets/img/icon-1000.png"
