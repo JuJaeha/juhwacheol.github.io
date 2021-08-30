@@ -64,12 +64,12 @@ html {
   text-align: center;
 }
 
-.sidebar-nav ul li:hover {
+li.sidebar-nav:hover {
   background-color: #666;
   color: #ff42e7;
 }
 
-.sidebar-nav ul li:link {
+li.sidebar-nav:link {
   width: 190px;
   text-decoration: none;
   display: block;
