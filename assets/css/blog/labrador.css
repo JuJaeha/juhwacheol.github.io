@@ -61,9 +61,9 @@ html {
 }
 
 .sidebar-nav li a:hover {
-  background-color: #666;
+  background-color: #fff;
   text-decoration: none;
-  color: #fff;
+  color: #000;
 }
 
 .sidebar-nav-item {
