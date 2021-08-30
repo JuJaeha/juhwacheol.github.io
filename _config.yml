@@ -2,8 +2,9 @@
 # Site settings
 title: JU Blog :)
 email: juhwacheol@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  every single day, 
+description1: > Yesterday,
+description2: > Today,
+description3: > Tomorrow, Coding too
 #baseurl: "/labrador-jekyll-theme" # the subpath of your site, e.g. /blog
 url:  ""
 homeurl: "https://juhwacheol.github.io/en/"
