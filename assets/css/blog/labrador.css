@@ -47,7 +47,7 @@ html {
 .sidebar-nav li {
   list-style: none;
   background-color: #000;
-  text-decoration: none;
+  /*text-decoration: none;*/
   line-height: 30px;
   text-align: center;
 }
