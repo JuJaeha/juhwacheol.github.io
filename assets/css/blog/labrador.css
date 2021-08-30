@@ -47,12 +47,14 @@ html {
 .sidebar-nav li {
   list-style: none;
   background-color: #000;
+  text-decoration: none;
   line-height: 30px;
   text-align: center;
 }
 
-.sidebar-nav li:hover {
+.sidebar-nav li a:hover {
   background-color: #666;
+  text-decoration: none;
   color: #ff42e7;
 }
 
