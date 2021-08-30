@@ -10,14 +10,10 @@
     </div>
 
     <nav class="sidebar-nav">
-      {% for l in site.data.lang  %}
-        {% if l[0] == page.lang %}
           {% assign sections = l[1].terms[0] %}
           {% for sec in sections %}
             <a class="sidebar-nav-item" href="{{ site.url | site.homeurl }}/{{ page.lang }}/#scrollto-section-{{ forloop.index }}">{{ sec[1].section }}</a>
           {% endfor %} 
-        {% endif %}
-      {% endfor %}
     </nav>
 
   </div>
