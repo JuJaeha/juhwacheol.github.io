@@ -53,7 +53,7 @@ html {
 }
 
 .sidebar-nav li a:link {
-  width: 190px;
+  /*width: 190px;*/
   text-decoration: none;
   display: block;
   color: #fff;
@@ -63,7 +63,7 @@ html {
 .sidebar-nav li a:hover {
   background-color: #666;
   text-decoration: none;
-  color: #ff42e7;
+  color: #fff;
 }
 
 .sidebar-nav-item {
